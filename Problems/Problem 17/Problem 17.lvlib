@@ -4,5 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="20 to 99.vi" Type="VI" URL="../20 to 99.vi"/>
 	<Item Name="Problem 17.vi" Type="VI" URL="../Problem 17.vi"/>
 </Library>
