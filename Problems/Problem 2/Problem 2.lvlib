@@ -4,8 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Fibonacci.vi" Type="VI" URL="../Fibonacci.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
+	<Item Name="Fibonacci.vi" Type="VI" URL="../Fibonacci.vi"/>
 	<Item Name="Problem 2.vi" Type="VI" URL="../Problem 2.vi"/>
 </Library>

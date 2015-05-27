@@ -4,4 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Get Abundant Numbers.vi" Type="VI" URL="../Get Abundant Numbers.vi"/>
+	<Item Name="Problem 23.vi" Type="VI" URL="../Problem 23.vi"/>
 </Library>
